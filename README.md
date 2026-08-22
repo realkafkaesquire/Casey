@@ -1,6 +1,9 @@
 **Casey**
+
 A working title — no permanent name has been chosen yet.
+
 Casey is a case management tool for solo and small-firm attorneys, built entirely as a single-file app through conversation with Claude (Anthropic's AI) — no traditional coding involved. It runs as a Claude artifact: no install, no separate account, no backend to stand up.
+
 This started as a personal project and is being shared for other attorneys to try, stress-test, and give feedback on. It is not a finished commercial product — see Important disclaimers before putting any real client information into it.
 ---
 What it does
